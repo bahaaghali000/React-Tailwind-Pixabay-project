@@ -2,7 +2,7 @@
 
 ## Preview Image:
 
-![Preview Image](/assets/preview.png)
+![Preview Image](./src/assets/preview.png)
 
 ## Live Demo: [Click Here](https://pixabay-bahaaghali000.onrender.com/).
 
